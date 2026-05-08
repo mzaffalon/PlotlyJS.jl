@@ -140,8 +140,8 @@ makedocs(
             "Time Series" => "examples/time_series.md",
             "Violin" => "examples/violin.md",
         ],
-        "Extra Examples" => [
-            "Tables"           => "extra-examples/table.md"],
+        "Tutorials" => [
+            "Tables"           => "tutorials/table.md"],
         "API Docs" => "api.md"
     ]
 )

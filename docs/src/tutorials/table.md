@@ -1,5 +1,17 @@
-`table` provides a Table object for detailed data viewing. The data are arranged in
-a grid of rows and columns. Most styling can be specified for header, columns, rows or individual cells. Table is using a column-major order, i.e. the grid is represented as a vector of column vectors.
+```@raw comment
+The original version of this work is
+Copyright 2021, Trevor Lyon and contributors
+provided under the CC BY 3.0 Unported license.
+You can obtain at copy of the CC BY 3.0 license at
+https://creativecommons.org/licenses/by/3.0/
+This file is an adapted version of work originally
+published at https://github.com/plotly/plotlyjs.jl-docs/
+and is licensed under CC BY 4.0.
+To view a copy of this license, visit
+https://creativecommons.org/licenses/by/4.0/
+```
+
+`table` provides a Table object for detailed data viewing. The data are arranged in a grid of rows and columns. Most styling can be specified for header, columns, rows or individual cells. Table is using a column-major order, i.e. the grid is represented as a vector of column vectors.
 
 #### Basic Table
 
